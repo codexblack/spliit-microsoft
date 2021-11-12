@@ -1,2 +1,1 @@
-# spliit-microsoft
-Cost splitting made easy
+# Spliit - Cost splitting made easy
